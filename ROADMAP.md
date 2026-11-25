@@ -1,6 +1,7 @@
 # Roadmap
 
 ## Done (verified by `.\scripts\verify.ps1`, 2026-11-25)
+- 1.0.1: recipe unlock advancement so the recipe shows in the recipe book (unit test guards every recipe).
 - `copperfishingrod:copper_fishing_rod`: subclass of `FishingRodItem`, 64 durability, enchantable, repairable with copper.
 - Built-in Lure I (`LureBonus`, unit-tested): +5 s on top of real Lure, capped at Lure III (15 s).
   Gametest confirms an unenchanted cast has `lureSpeed == 100` ticks.
