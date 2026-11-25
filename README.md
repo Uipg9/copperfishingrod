@@ -1,3 +1,5 @@
+<p align="center"><img src="src/main/resources/assets/copperfishingrod/icon.png" width="128" alt="icon"></p>
+
 # Copper Fishing Rod
 
 A fishing rod made of copper. It fishes exactly like the vanilla rod (casting, catching, hooking mobs,
